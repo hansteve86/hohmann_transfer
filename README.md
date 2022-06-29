@@ -1,2 +1,2 @@
 # hohmann_transfer
-Contains Hohmann Transfer orbit simulation for RK4 and ODE45
+Contains Hohmann Transfer orbit simulation for Runge Kutta 4th Order and Adam Bashforth methods
